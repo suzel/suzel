@@ -1,6 +1,6 @@
 # Sukru Uzel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sukruuzel-blue)](https://www.linkedin.com/in/sukru-uzel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sukru-uzel)
 
 I'm Sukru. Software developer working with Headless APIs, JavaScript, Svelte, and GraphQL.
 
