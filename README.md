@@ -9,7 +9,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)](https://www.typescriptlang.org)
 
-I'm Sukru. Software developer working with Java, Python, JavaScript, Svelte, and GraphQL.
+I have over 25 years of application development experience in a broad range of industries including telecom, insurance, banking, and government. I have excellent knowledge of the financial services industry and excellent experience of banking software implementation projects.
+
+Specialties: Java, JEE, Spring Boot/Cloud, Oracle, AWS, Docker, Kubernetes, CI/CD, DevOps, RabbitMQ, Kafka, Elasticsearch
 
 ## Get in touch
 - Personal Website: [sukruuzel.com](https://www.sukruuzel.com)
