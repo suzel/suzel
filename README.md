@@ -1,15 +1,15 @@
 # Hi, I'm Sukru
 
 [![macOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos)
-[![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=claude&logoColor=D97757)](https://claude.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/suzel)
+[![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=claude&logoColor=D97757)](https://claude.com)
 [![AWS][aws-badge]](https://aws.amazon.com)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://hub.docker.com/u/suzel)
 [![Java](https://img.shields.io/badge/-Java-000?style=flat&logoColor=ED8B00&logo=openjdk)](https://dev.java)
 [![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=CE422B)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=ffd343&logo=python)](https://www.python.org)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org)
 
 I'm a Technical Lead with over 25 years of application development experience in a broad range of industries including telecom, insurance, banking, and government. I have deep knowledge of the financial services industry and extensive experience in banking software implementation projects.
 
@@ -20,7 +20,7 @@ I'm a Technical Lead with over 25 years of application development experience in
 - **Serverless** - Developing event-driven applications with AWS Lambda
 - **System modernization** - Migrating legacy systems to cloud-native architectures
 - **AI/LLM integrations** - Developing enterprise solutions with Claude and AI tools
-- **Agentic engineering** - Rapid prototyping with AI-powered automation tools
+- **Agentic engineering** - Applying spec-driven development and AI-driven SDLC
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@ I'm a Technical Lead with over 25 years of application development experience in
 - **Databases** - Oracle, PostgreSQL, DynamoDB, Redis
 - **Cloud** - AWS (Lambda, S3, API Gateway, CDK), Cloudflare
 - **DevOps** - Docker, Terraform, GitHub Actions
-- **AI/LLM** - Claude, LangChain, Bedrock
+- **AI/LLM** - Claude, Claude Code, LangChain, Bedrock
 
 ## Get in touch
 
